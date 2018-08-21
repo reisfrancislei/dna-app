@@ -28,5 +28,5 @@ There are 3 endpoints:
 
 After start the application, access the link [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
-You see a page like below.
+You'll see a page like below.
 ![GitHub Logo](doc/swagger-ui.png)
