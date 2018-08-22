@@ -35,4 +35,8 @@ You'll see a page like below.
 
 URL: http://ec2-18-208-245-36.compute-1.amazonaws.com:8080/swagger-ui.html
 
-![GitHub Logo](doc/swagger-aws.png)
+![Swagger AWS](doc/swagger-aws.png)
+
+### Coverage 
+
+![Swagger AWS](doc/coverage.png)
