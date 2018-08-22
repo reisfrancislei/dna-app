@@ -8,7 +8,7 @@ There are 2 solutions, see [DNAFinder](src/main/java/br/com/app/endpoint/DNAFind
     - findMutantDNANeigborhood
 
 ### Endpoints
-There are 3 endpoints:
+There are 3 endpoints, see the [Swagger documentation session](#swagger-documentation):
 
     /mutant/ - first solution
     /mutant-second/ - second solution
@@ -29,4 +29,10 @@ There are 3 endpoints:
 After start the application, access the link [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 You'll see a page like below.
-![GitHub Logo](doc/swagger-ui.png)
+![Swagger](doc/swagger-ui.png)
+
+### AWS
+
+URL: http://ec2-18-208-245-36.compute-1.amazonaws.com:8080/swagger-ui.html
+
+![GitHub Logo](doc/swagger-aws.png)
