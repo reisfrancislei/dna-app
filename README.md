@@ -32,8 +32,7 @@ You'll see a page like below.
 ![Swagger](doc/swagger-ui.png)
 
 ### AWS
-
-URL: http://ec2-18-208-245-36.compute-1.amazonaws.com:8080/swagger-ui.html
+URL: http://ec2-18-217-158-104.us-east-2.compute.amazonaws.com:8080/swagger-ui.html
 
 ![Swagger AWS](doc/swagger-aws.png)
 
